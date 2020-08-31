@@ -1,0 +1,3 @@
+include ':accessibilityaction'
+include ':app'
+rootProject.name = "Android"
